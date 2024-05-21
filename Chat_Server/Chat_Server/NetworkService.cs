@@ -78,7 +78,6 @@ namespace Chat_Server
         public const string MONGODB_URI_FORMAT = "mongodb+srv://~";
         private const string TEST_DB = "Chat_DB";
         private const string Users_Collection = "Users";
-        public string collectionName = "obstacles";
 
         public MongoClient Mongo_Server;
         public IMongoDatabase database;
