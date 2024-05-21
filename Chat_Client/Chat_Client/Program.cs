@@ -15,7 +15,7 @@ namespace Chat_Client
         {
 
             int port = 7979;
-            string serverIP = "192.168.0.175";
+            string serverIP = "MY Server Computer IP ADDRESS";
             serverlist = new List<Token>();
 
             IPAddress address = IPAddress.Parse(serverIP);
