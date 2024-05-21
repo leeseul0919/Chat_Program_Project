@@ -1,6 +1,7 @@
 # Chat_Program_Project
 
 ## SignUp/Login
+```
 [Client Send] ID/PW, SignUP Request
 
 [Server Send] SingUp Success/Signup Fail receive
@@ -8,7 +9,7 @@
 [Client Send] ID/PW, Login Request
 
 [Server Send] Login Success, ID's Room info
-
+```
 
 ## Room Create/Enter Room
 1. <- Room Create Ready Request
