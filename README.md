@@ -3,9 +3,9 @@
 ## SignUp/Login
 ```
 [Client Send] ID/PW, SignUP Request
-[Server Send] SingUp Success/Signup Fail receive
+[Server Send] SingUp Success/Signup Fail
 [Client Send] ID/PW, Login Request
-[Server Send] Login Success, ID's Room info
+[Server Send] Login Success, ID's Room info / Login Fail
 ```
 
 ## Room Create/Enter Room
