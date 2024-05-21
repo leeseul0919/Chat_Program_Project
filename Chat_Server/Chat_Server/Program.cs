@@ -12,7 +12,7 @@ namespace Chat_Server
         static void Main(string[] args)
         {
             NetworkService server = new NetworkService();
-            server.start("192.168.0.175", 7979, 100); //start listen
+            server.start("MY Server Computer IP ADDRESS", 7979, 100); //start listen
             while(true)
             {
                 System.Threading.Thread.Sleep(1000);
