@@ -9,12 +9,14 @@
 ```
 
 ## Room Create/Enter Room
-1. <- Room Create Ready Request
-2. Room Create Ready Success, All Users' IDs ->
-3. <- Room Create Request, Room Name, Invite IDs
-4. Room Create Success ->
-5. <- Enter Room Request, Room num
-6. Enter Room Success, Room num, Room messages ->
+```
+[Client Send] Room Create Ready Request
+[Server Send] Room Create Ready Success, All Users' IDs
+[Client Send] Room Create Request, Room Name, Invite IDs
+[Server Send] Room Create Success
+[Client send] Enter Room Request, Room num
+[Server Send] Enter Room Success, Room num, Room messages
+```
 
 
 ## Send/Receive Message
