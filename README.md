@@ -3,11 +3,8 @@
 ## SignUp/Login
 ```
 [Client Send] ID/PW, SignUP Request
-
 [Server Send] SingUp Success/Signup Fail receive
-
 [Client Send] ID/PW, Login Request
-
 [Server Send] Login Success, ID's Room info
 ```
 
