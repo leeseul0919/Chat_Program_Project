@@ -75,7 +75,7 @@ namespace Chat_Server
         public RoomManager roomManager_cs;
         public ChatManager chatManager_cs;
 
-        public const string MONGODB_URI_FORMAT = "mongodb+srv://capstone:20211275@cluster0.ynjxsbf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+        public const string MONGODB_URI_FORMAT = "mongodb+srv://~";
         private const string TEST_DB = "Chat_DB";
         private const string Users_Collection = "Users";
         public string collectionName = "obstacles";
