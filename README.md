@@ -18,11 +18,14 @@
 [Server Send] Enter Room Success, Room num, Room messages
 ```
 
-
 ## Send/Receive Message
-1. <- Send Message, Room num, Send Message
-2. Delive Message, Send Message ->
-
+```
+[Client Send] Send Message, Room num, Send Message
+[Server Send] Delive Message, Send Message
+```
 
 ## Update Room
-1. Room Update, Room num, Room Name ->
+```
+if some clients send 'create room' to server,
+[Server Send] Room Update, Room num, Room Name
+```
