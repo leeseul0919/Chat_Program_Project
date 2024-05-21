@@ -1,0 +1,10 @@
+C:\Users\leseu\source\repos\Chat_Server\Chat_Server\bin\Debug\Chat_Server.exe.config
+C:\Users\leseu\source\repos\Chat_Server\Chat_Server\bin\Debug\Chat_Server.exe
+C:\Users\leseu\source\repos\Chat_Server\Chat_Server\bin\Debug\Chat_Server.pdb
+C:\Users\leseu\source\repos\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.AssemblyReference.cache
+C:\Users\leseu\source\repos\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.CoreCompileInputs.cache
+C:\Users\leseu\source\repos\Chat_Server\Chat_Server\obj\Debug\Chat_Server.exe
+C:\Users\leseu\source\repos\Chat_Server\Chat_Server\obj\Debug\Chat_Server.pdb
+C:\Users\leseu\source\repos\Chat_Server\Chat_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leseu\source\repos\Chat_Server\Chat_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leseu\source\repos\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.CopyComplete
